@@ -1,4 +1,4 @@
-# Neo4j
+# Neo4j-book-connections
 
 * To use mongodb with php you need to use mongodb php driver. Download the driver from the url(https://s3.amazonaws.com/drivers.mongodb.org/php/index.html) Download PHP Driver. Make sure to download latest release of it. Now unzip the archive and put php_mongo.dll in your PHP extension directory ("ext" by default) and add the following line to your php.ini file:
 extension=php_mongo.dll
