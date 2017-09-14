@@ -29,4 +29,7 @@ When it is run,
    * So in index.php, insertdb function would be run -  that would send all the data from the csv file to mongo db
    * getdb() function would call mapInvoice() of CustomerInvoice class and CategoryBook classes 
    * Then the graph database would be created with 274 nodes and 157 relationships as following 
+
+
+Other details regarding running and expected output figure are shown are included in readme.docx
             
